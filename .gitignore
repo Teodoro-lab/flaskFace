@@ -1,0 +1,6 @@
+**/pycache
+/Include
+/Scripts
+/flaskFace.db
+/Lib
+pyvenv.cfg
